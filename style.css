@@ -319,7 +319,7 @@ footer img {
 .quotes .quotes-box { 
     padding: 70px;
     font-size: 1.2em;
-    background-color: rgba(246, 243, 239, 0.5);
+    background-color: rgba(246, 243, 239, 0.1);
 
 }
 @media (max-width: 600px) {
